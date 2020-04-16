@@ -1,0 +1,1149 @@
+geckodriver: error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver -v
+
+For more information try --help
+
+1586965830374	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile04zA5M"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1586965835241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586965835242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586965835242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586965835242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586965837320	Marionette	INFO	Listening on port 51985
+1586966238376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile3ALbL5"
+*** You are running in headless mode.
+1586966238943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586966238943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586966238944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586966238944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586966241012	Marionette	INFO	Listening on port 54541
+1586966241082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2776.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2776.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2776.js, line 1: unreachable code after return statement
+1586966836876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileaze607"
+*** You are running in headless mode.
+1586966837408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586966837408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586966837408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586966837408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586966839423	Marionette	INFO	Listening on port 58484
+1586966839480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+1586966943441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilesTBpUm"
+*** You are running in headless mode.
+1586966943987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586966943987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586966943987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586966943988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586966946271	Marionette	INFO	Listening on port 59269
+1586966946368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+1586967063664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile1fRwQ2"
+*** You are running in headless mode.
+1586967064131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967064132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967064132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967064132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967065929	Marionette	INFO	Listening on port 60136
+1586967065940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+1586967449884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileFcuV8w"
+*** You are running in headless mode.
+1586967450335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967450335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967450335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967450335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967452138	Marionette	INFO	Listening on port 62760
+1586967452156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+1586967485335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileDGa6qN"
+*** You are running in headless mode.
+1586967485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967487789	Marionette	INFO	Listening on port 63039
+1586967487819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+1586967558134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileeP3bos"
+*** You are running in headless mode.
+1586967558612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967558612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967558612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967558612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967560408	Marionette	INFO	Listening on port 63571
+1586967560513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586967613925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileqJYIO8"
+*** You are running in headless mode.
+1586967614389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967614390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967614390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967614390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967616149	Marionette	INFO	Listening on port 63980
+1586967616193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+1586967666697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileTaosuw"
+*** You are running in headless mode.
+1586967667160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967667161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967667161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967667161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967668913	Marionette	INFO	Listening on port 64428
+1586967668972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+1586967792773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileXCMikx"
+*** You are running in headless mode.
+1586967793305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967793305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967793306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967793306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967795158	Marionette	INFO	Listening on port 65339
+1586967795250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+1586967955443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileALxHok"
+*** You are running in headless mode.
+1586967955900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967955900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967955900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967955900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967957715	Marionette	INFO	Listening on port 50086
+1586967957813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1586967988327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilef4eob3"
+*** You are running in headless mode.
+1586967988828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586967988829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586967988829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586967988829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586967990603	Marionette	INFO	Listening on port 50353
+1586967990617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1586968398815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileaWsMTx"
+*** You are running in headless mode.
+1586968399361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586968399362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586968399362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586968399362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586968400962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileiS1yxn"
+*** You are running in headless mode.
+1586968401414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586968401415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586968401415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586968401415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586968403173	Marionette	INFO	Listening on port 53141
+1586968403234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1586968507613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileRdQSRz"
+*** You are running in headless mode.
+1586968508073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586968508074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586968508074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586968508074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586968509866	Marionette	INFO	Listening on port 53893
+1586968509880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1586968730701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile76HLVF"
+*** You are running in headless mode.
+1586968731206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586968731206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586968731206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586968731206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586968733035	Marionette	INFO	Listening on port 55412
+1586968733079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1586968868097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilecFmWAb"
+*** You are running in headless mode.
+1586968868563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586968868563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586968868563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586968868563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586968870376	Marionette	INFO	Listening on port 56377
+1586968870481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/546.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587044848030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilejGaf5P"
+*** You are running in headless mode.
+1587044848555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587044848555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587044848555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587044848555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587044850375	Marionette	INFO	Listening on port 64315
+1587044850410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+1587044936976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile9i69SS"
+*** You are running in headless mode.
+1587044937463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587044937463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587044937463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587044937463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587044939285	Marionette	INFO	Listening on port 64819
+1587044939360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcarticon
+http://requirejs.org/docs/errors.html#scripterror
+1587044973984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilerqHTfi"
+*** You are running in headless mode.
+1587044974430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587044974430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587044974430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587044974430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587044976267	Marionette	INFO	Listening on port 65058
+1587044976370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045123241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilev3S1V8"
+*** You are running in headless mode.
+1587045123715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045123715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045123716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045123716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045125522	Marionette	INFO	Listening on port 49501
+1587045125616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045309111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile0giyOX"
+1587045310226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045310226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045310226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045310226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045312401	Marionette	INFO	Listening on port 50475
+1587045312439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://devtools/server/debugger-server-connection.js:89:5
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:1972:17
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 89, column: 5
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/debugger-server-connection.js", 89))
+1587045394490	Marionette	INFO	Stopped listening on port 50475
+1587045398620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileZsdXNc"
+1587045399322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045399322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045399322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045399322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045401501	Marionette	INFO	Listening on port 50997
+1587045401519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045534981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile6FZ61F"
+1587045535827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045535827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045535827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045535827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045538138	Marionette	INFO	Listening on port 51814
+1587045538200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045559677	Marionette	INFO	Stopped listening on port 50997
+1587045612319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile5Rkkq7"
+1587045616525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045616526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045616526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045616526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045618824	Marionette	INFO	Listening on port 52303
+1587045618850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1587045621510	Marionette	INFO	Stopped listening on port 51814
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587045661779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofiledxaL0H"
+1587045662533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045662533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045662533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045662534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045664616	Marionette	INFO	Listening on port 52678
+1587045664680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587045670101	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045754783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileZjDhjL"
+1587045755570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587045755570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587045755570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587045755571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587045757780	Marionette	INFO	Listening on port 53276
+1587045757885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587045815603	Marionette	INFO	Stopped listening on port 53276
+1587045817796	Marionette	INFO	Stopped listening on port 52678
+1587046206968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile8bILgQ"
+1587046207666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587046207666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587046207667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587046207667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587046209760	Marionette	INFO	Listening on port 55748
+1587046209868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587046224384	Marionette	INFO	Stopped listening on port 55748
+1587049109961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilelCrAA8"
+1587049110721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049110722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049110722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049110722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049113208	Marionette	INFO	Listening on port 54107
+1587049113296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1587049174532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilelyGPZj"
+1587049175285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049175285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049175285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049175285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049177352	Marionette	INFO	Listening on port 54508
+1587049177415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587049182907	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 74525, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1587049293247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileXzsazH"
+1587049293932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049293932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049293932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049293932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049296611	Marionette	INFO	Listening on port 55176
+1587049296686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587049299585	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587049309997	Marionette	INFO	Stopped listening on port 55176
+1587049323606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilekz06R0"
+1587049324274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049324275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049324275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049324275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049326402	Marionette	INFO	Listening on port 55392
+1587049326511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587049336028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1587049375822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofiledw31r1"
+1587049376516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049376517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049376517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049376517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049378597	Marionette	INFO	Listening on port 55722
+1587049378625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587049498828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileOkbKxu"
+1587049499506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049499506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049499507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049499507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049501611	Marionette	INFO	Listening on port 56455
+1587049501619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587049507613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1587049637377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileK18diK"
+1587049638073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049638074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049638074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049638074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049646501	Marionette	INFO	Listening on port 57303
+1587049646588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcarticon
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587049744660	Marionette	INFO	Stopped listening on port 57303
+1587049784212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileX2dplb"
+1587049785167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049785167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049785167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049785167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049787272	Marionette	INFO	Listening on port 58203
+1587049787329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587049854403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileDLR5r1"
+1587049861171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049861172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049861172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049861172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049862589	Marionette	INFO	Stopped listening on port 58203
+1587049863402	Marionette	INFO	Listening on port 58628
+1587049863509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587049924787	Marionette	INFO	Stopped listening on port 58628
+1587049928935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileQJNIuZ"
+1587049929615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049929615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049929616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049929616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049931733	Marionette	INFO	Listening on port 59184
+1587049931743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+1587049945728	Marionette	INFO	Stopped listening on port 59184
+1587049990666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofiley9uYnX"
+1587049991422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587049991423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587049991423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587049991423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587049993499	Marionette	INFO	Listening on port 59596
+1587049993568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587050022478	Marionette	INFO	Stopped listening on port 59596
+1587050030786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileiOLxsz"
+1587050031522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587050031522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587050031522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587050031522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587050033716	Marionette	INFO	Listening on port 59852
+1587050033804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+1587050111509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilegfJKHl"
+1587050118304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587050118305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587050118305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587050118305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587050120480	Marionette	INFO	Listening on port 60317
+1587050120534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/548.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+1587050167503	Marionette	INFO	Stopped listening on port 60317
+1587050313718	Marionette	INFO	Stopped listening on port 59852
+1587059846468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileDG5SGS"
+*** You are running in headless mode.
+1587059846965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587059846965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587059846965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587059846965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587059848716	Marionette	INFO	Listening on port 54017
+1587059848742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: component/shoppingcartabstract
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: init-private
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+1587059864388	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1587059993610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile3aWnLZ"
+1587059994478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587059994478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587059994479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587059994479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587059996659	Marionette	INFO	Listening on port 54873
+1587059996739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587060062459	Marionette	INFO	Stopped listening on port 54873
+1587060069612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileIy3QY9"
+1587060070335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587060070335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587060070336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587060070336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587060072404	Marionette	INFO	Listening on port 55394
+1587060072418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587060145460	Marionette	INFO	Stopped listening on port 55394
+1587060150153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileCY1M5V"
+1587060150895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587060150895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587060150896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587060150896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587060153086	Marionette	INFO	Listening on port 55930
+1587060153161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+1587060201424	Marionette	INFO	Stopped listening on port 55930
+1587060203263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile7M5bxf"
+1587060203985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587060203985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587060203985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587060203985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587060206126	Marionette	INFO	Listening on port 56332
+1587060206171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+1587060231739	Marionette	INFO	Stopped listening on port 56332
+1587061434500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilemgwef3"
+1587061435592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587061435592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587061435592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587061435592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587061437635	Marionette	INFO	Listening on port 62731
+1587061437722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1587061471091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileuz0TQ4"
+1587061471853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587061471854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587061471854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587061471854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587061473935	Marionette	INFO	Listening on port 62983
+1587061474003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587061499694	Marionette	INFO	Stopped listening on port 62983
+1587061501562	Marionette	INFO	Stopped listening on port 62731
+1587061512007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofilemW7tvM"
+1587061512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587061512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587061512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587061512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587061514775	Marionette	INFO	Listening on port 63254
+1587061514799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587061518029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1587061647173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofile5nPm2i"
+1587061647893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587061647894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587061647894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587061647894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587061649995	Marionette	INFO	Listening on port 64003
+1587061650081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: plugins/js.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://auth.mijndomein.nl/frontend/main/js/3rdparty/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1587061700781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jf/hchm6k_57q59ld08y3g9hy300000gn/T/rust_mozprofileuiFKoB"
+1587061701532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587061701533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587061701533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587061701533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587061703774	Marionette	INFO	Listening on port 64331
+1587061703806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2238: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2500: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3601: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3604: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 6305: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2674: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 3267: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 481: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 478: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2904: unreachable code after return statement
+JavaScript warning: https://jscdn1.mijndomein.nl/packs/543.profilepack_nl_NL.js, line 2901: unreachable code after return statement
+1587061717980	Marionette	INFO	Stopped listening on port 64331
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1587061722002	Marionette	INFO	Stopped listening on port 64003
