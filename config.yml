@@ -1,0 +1,7 @@
+mijndomein:
+  username: <username>
+  password: <password>
+domains:
+  - domeinnaam: <domain>
+    subdomeins:
+      - <subdomain>
