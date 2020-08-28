@@ -39,7 +39,7 @@ usernameValue = config['mijndomein']['username']
 passwordValue = config['mijndomein']['password']
 
 opts = Options()
-opts.headless = False
+opts.headless = True
 browser = Firefox(options=opts)
 browser.maximize_window()
 
